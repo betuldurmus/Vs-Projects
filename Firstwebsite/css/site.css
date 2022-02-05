@@ -1,0 +1,38 @@
+.nav {text-align: center;
+    display:-moz-inline-stack;
+    background-color: aliceblue; 
+    
+ color:rgb(228, 14, 103);
+font-size: 30px;
+ list-style-position: inside;
+ font-family: 'Supermercado One', cursive;
+}
+
+h1 {text-align: center;
+    border: 2px solid white;
+    font-size: 70px;
+}
+
+h2 {text-align: center;
+
+
+}
+
+.ul {text-align: center;
+
+background-color: black;
+ color:white;
+font-size: 30px;
+ list-style-position: inside;
+ font-family: 'Supermercado One', cursive;
+}
+
+h3 {text-align: center;
+    font-family: 'Supermercado One', cursive;
+    font-size: 30px;
+
+ background-color:black;color:white;padding:20px;border-radius: 30px;font-family: 'Supermercado One', cursive; font-size: 40px;
+
+
+
+}
