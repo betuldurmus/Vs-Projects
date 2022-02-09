@@ -116,7 +116,7 @@
     word-wrap: break-word;
     outline: none;
     display: flex;
-    flex: 100%;
+    flex:1 100%;
     margin-top: -68px;
     font: 16px arial, sans-serif;
     line-height: 34px;
@@ -166,8 +166,7 @@
     min-width: 54px;
     text-align: center;
     cursor: pointer;
-    user-select: none;
-  }
+    user-select: none;}
   
   .footer {
     margin: 0;
